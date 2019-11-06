@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+    color:gold;
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+     
+}
+button{
+    background:black;
+    border-color:gold;
+}
+.answer{
+    font-size:30px;
+}
